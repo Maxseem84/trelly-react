@@ -1,0 +1,13 @@
+.task {
+  border: 5px solid black;
+  padding: 5px 10px;
+  margin-bottom: 10px;
+  width: 300px;
+  background-color: rgb(251, 166, 117);
+}
+.task.selected {
+  border-color: blue;
+}
+.title.linethrough {
+  text-decoration: line-through;
+}
